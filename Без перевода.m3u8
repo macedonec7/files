@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0 type="playlist", С переводом
+http://example.com/playlists/2015.m3u
+#EXTINF:0 type="playlist", Без перевода
+http://example.com/playlists/2010-2014.m3u
+#EXTINF:0 type="playlist", Ролики
+http://example.com/playlists/a-ya.m3u

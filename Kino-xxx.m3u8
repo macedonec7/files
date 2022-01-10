@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=https://github.com/macedonec7/files/raw/maced/epg.xml
+#EXTM3U url-tvg="https://github.com/macedonec7/files/raw/maced/epg.xml"
 #EXTGRP:1080
 #EXTINF:-1 tvg-id="1", Эротические приключения Красной Шапочки
 https://huyamba-v1.kvscdn.com/contents/videos/5000/5027/5027hd.mp4

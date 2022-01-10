@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "http://epg.it999.ru/xmltv.dtd">
-<tv source-info-url="http://epg.it999.ru" source-info-name="EPG it999" source-info-logo="http://epg.it999.ru/images/logo100x100.png" generator-info-name="EPG it999 generator xmltv v2.1" generator-info-url="http://it999.ru">
+<tv source-info-url="http://epg.it999.ru" source-info-name="EPG it999" generator-info-name="EPG it999 generator xmltv v2.1" generator-info-url="http://it999.ru">
 <channel id="1">
 	<display-name lang="ru">Эротические приключения Красной Шапочки</display-name>
 	<icon src="https://hd.kinokordon.love/uploads/posts/2021-04/thumbs/1617872112_15054.webp" />

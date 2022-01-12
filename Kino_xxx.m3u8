@@ -1,7 +1,10 @@
 #EXTM3U
+#EXTGRP:Group_1
 #EXTINF:0 type="playlist", С переводом
 https://github.com/macedonec7/files/raw/maced/RusLang.m3u8
+#EXTGRP:Group_2
 #EXTINF:0 type="playlist", Без перевода
 https://github.com/macedonec7/files/raw/maced/NoLang.m3u8
+#EXTGRP:Group_3
 #EXTINF:0 type="playlist", Ролики
 https://github.com/macedonec7/files/raw/maced/Rollers.m3u8
